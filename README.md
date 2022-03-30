@@ -1,6 +1,6 @@
 # textming
-# # 110-2 文字探勘
-# # # Text Mining: Homework 1
+## 110-2 文字探勘
+### Text Mining: Homework 1
 due on March 30, 2022
 
 This homework asks you to analyze the famous Reuters-21578 corpus which consists of Reuters
